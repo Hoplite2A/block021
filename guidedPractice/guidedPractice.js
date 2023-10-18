@@ -41,7 +41,7 @@ class Apartment extends Home {
   }
 }
 
-//TODO   Home Test
+//TODO----Home Test
 // const newHome = new Home(
 //     2,
 //     2.5,
@@ -49,7 +49,7 @@ class Apartment extends Home {
 // );
 // console.log(newHome);
 // console.log(newHome.printHome());
-//TODO   SFH Test
+//TODO----SFH Test
 // const newSFH = new SingleFamilyHome(
 //     2,
 //     2.5,
@@ -58,7 +58,7 @@ class Apartment extends Home {
 // );
 // console.log(newSFH);
 // console.log(newSFH.printHome());
-//TODO   Apartment Test
+//TODO----Apartment Test
 const newApartment = new Apartment(2, 2.5, 1250, "2nd");
 console.log(newApartment);
 console.log(newApartment.printHome());
